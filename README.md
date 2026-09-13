@@ -1,3 +1,71 @@
+# ITCS386 Project 1: Unit Test for Open-Source Software
+**Team Name:** Titanic  
+**Selected Project:** [PokéApi V2 Java Wrapper](https://github.com/oscar0812/pokeapi-v2-java)
+
+---
+
+## 📌 Project Overview & Selection Rationale
+*(สำหรับสมาชิกคนที่ 1 และ 5 เติมรายละเอียด)*
+- **เหตุผลที่เลือกโปรเจคนี้:** 
+- **ผลการตรวจสอบเงื่อนไข (Stars / Java / Test Framework):** 
+
+---
+
+## 🧪 Unit Test Documentation (Input Space Partitioning)
+*(สำหรับสมาชิกในทีมเติมข้อมูล Test Case 1 - 10)*
+
+> **ข้อกำหนดจากอาจารย์:**
+> 1. ต้องเขียน Test Suite ทั้งหมด 10 ข้อ 
+> 2. ต้องใช้วิธีจัดกลุ่มให้ครบทั้ง 5 แบบ (ACoC, ECC, PWC, BCC, MBCC) โดยใช้แบบละ 2 Test Cases
+> 3. แต่ละ Test Case ต้องมีทั้ง Interface-based และ Functionality-based characteristic อย่างน้อยอย่างละ 1 ตัว
+
+### 📝 โครงสร้างการอธิบายสำหรับ Test Case (1 - 10)
+*(ให้เพื่อนๆ ใช้โครงสร้างนี้ในการเติมข้อมูล Test Case แต่ละข้อ)*
+
+```text
+Test Case X: [ชื่อ Test Case]
+1. Goal: [เป้าหมายการทดสอบ]
+2. Characteristics:
+   - Interface-based: [ระบุ]
+   - Functionality-based: [ระบุ]
+3. Input Domain Modelling:
+   a. Testable Function: [ชื่อฟังก์ชัน]
+   b. Parameters, Return Types & Exceptions: [ระบุ]
+   c. Input Domain Partitions: [ระบุ]
+   d. Partition Combination Method: [ระบุ ACoC / ECC / PWC / BCC / MBCC]
+   e. Test Values & Expected Values: [ระบุค่าที่ใช้รันจริง]
+```
+   📋 รายการ Test Cases (1 - 10)
+Test Case 1: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 2: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 3: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 4: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 5: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 6: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 7: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 8: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 9: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
+Test Case 10: [ระบุชื่อ]
+(รอเติมข้อมูล)
+
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.oscar0812/pokeapi.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.oscar0812%22%20AND%20a:%22pokeapi%22)
 
 # PokéApi V2 Java Wrapper <img heigth=50 width=50 src="https://cdn.bulbagarden.net/upload/thumb/3/36/350Milotic.png/250px-350Milotic.png">
